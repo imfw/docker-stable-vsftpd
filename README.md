@@ -8,9 +8,9 @@
 ```
 
   > Адрес образа на github
-      https://github.com/imfw/docker-stable-redis
+      https://github.com/imfw/docker-stable-vsftpd
 
 	> Адрес образа на docker hub
-      https://hub.docker.com/r/forestwind/docker-stable-redis/
+      https://hub.docker.com/r/forestwind/docker-stable-vsftpd/
 			
 ```
